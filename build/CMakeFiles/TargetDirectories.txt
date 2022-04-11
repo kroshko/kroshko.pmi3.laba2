@@ -1,3 +1,0 @@
-C:/Users/Катя/Documents/Универ/Учеба/ЯМП/lab/l1/kroshko.pmi.2.2/kroshko.pmi3.laba2/build/CMakeFiles/Laba.dir
-C:/Users/Катя/Documents/Универ/Учеба/ЯМП/lab/l1/kroshko.pmi.2.2/kroshko.pmi3.laba2/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Катя/Documents/Универ/Учеба/ЯМП/lab/l1/kroshko.pmi.2.2/kroshko.pmi3.laba2/build/CMakeFiles/ZERO_CHECK.dir
